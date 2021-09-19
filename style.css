@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-heilight{
+    color: tomato;
+}
+.header1{
+    width: 40%;
+    float: left;
+    padding: 2%;
+}
+.header1 img{
+    width: 100%;
+}
